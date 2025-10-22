@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "c0be3b8f5143df8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "79070797a6666165",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35d95ab56bdc0707",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "de7890981816fe6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "코엑스 - 11.2일(일) 17시.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "코엑스 - 11.2일(일) 17시"
+            }
+          },
+          {
+            "id": "a856b683df2cade6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "에코누리시스템 - 상시.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "에코누리시스템 - 상시"
+            }
+          },
+          {
+            "id": "91a1864ee51cbc88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(주)이씨오 - 11.14(금)채용 시 마감.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(주)이씨오 - 11.14(금)채용 시 마감"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3703be257e6f397f",
+    "type": "split",
+    "children": [
+      {
+        "id": "478b6ff03cffd4d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2cd3f70ad13cf18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "34ac460325c61c2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "96f3179f147519b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cbfaffbdf41d8b54",
+    "type": "split",
+    "children": [
+      {
+        "id": "a258ddf0b9c5eab6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7728c1599e4c4080",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "에코누리시스템 - 상시.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "에코누리시스템 - 상시 의 백링크"
+            }
+          },
+          {
+            "id": "2e8c6e6a87c88ca0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "에코누리시스템 - 상시.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "에코누리시스템 - 상시 의 나가는 링크"
+            }
+          },
+          {
+            "id": "f3467c24fbecc789",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "fca9cea3db8a9817",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "에코누리시스템 - 상시.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "에코누리시스템 - 상시 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "a856b683df2cade6",
+  "lastOpenFiles": [
+    "(주)이씨오 - 11.14(금)채용 시 마감.md",
+    "에코누리시스템 - 상시.md",
+    "코엑스 - 11.2일(일) 17시.md",
+    "기업분석",
+    "환영합니다!.md"
+  ]
+}
